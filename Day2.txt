@@ -1,0 +1,460 @@
+Python 2.7.2+ (default, Oct  4 2011, 20:03:08) 
+[GCC 4.6.1] on linux2
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+Exercise 1
+
+Variable Names
+x is valid.
+
+56thnumber is not valid because it starts with a number.
+
+length is valid.
+
+!Tayo! is not valid because it starts with a character.
+
+NUMBER is valid.
+
+Android_phone1 is valid.
+
+this variable is not valid because it contains a space.
+>>> ================================ RESTART ================================
+>>> 
+Exercise 1
+
+Variable Names
+x is valid.
+
+56thnumber is not valid because it starts with a number.
+
+length is valid.
+
+!Tayo! is not valid because it starts with a character.
+
+NUMBER is valid.
+
+Android_phone1 is valid.
+
+this variable is not valid because it contains a space.
+
+
+
+ 2. Types
+a=False is boolean.
+
+b=3.7 is a float.
+
+c="Alex" is a string.
+
+d=7 is an integer.
+
+e="True" is a string.
+
+f=17 is an integer.
+
+g="17" does not have a data type.
+
+h=True is boolean.
+
+i="3.14159" is a string.
+
+j is also a string.
+>>> ================================ RESTART ================================
+>>> 
+Exercise 1
+
+Variable Names
+x is valid.
+
+56thnumber is not valid because it starts with a number.
+
+length is valid.
+
+!Tayo! is not valid because it starts with a character.
+
+NUMBER is valid.
+
+Android_phone1 is valid.
+
+this variable is not valid because it contains a space.
+
+
+
+ 2. Types
+a=False is boolean.
+
+b=3.7 is a float.
+
+c="Alex" is a string.
+
+d=7 is an integer.
+
+e="True" is a string.
+
+f=17 is an integer.
+
+g="17" does not have a data type.
+
+h=True is boolean.
+
+i="3.14159" is a string.
+
+j is also a string.
+
+
+
+Exercise 2
+
+1
+
+
+a= False
+b=True
+c=False
+
+1. b and c is
+
+Traceback (most recent call last):
+  File "/home/aiti-student/Documents/lucyowusu/Lab_Python_01/Day2.py", line 58, in <module>
+    print'1.','b and c is', b and c
+NameError: name 'b' is not defined
+>>> a= False
+>>> b=True
+>>> c=False
+>>> b and c
+False
+>>> b or c
+True
+>>> not a and not b
+False
+>>> (a and b) or not c
+True
+>>> not b and not (a or c )
+False
+>>> not((not b or not a) and c )
+True
+>>> ================================ RESTART ================================
+>>> 
+Exercise 1
+
+Variable Names
+x is valid.
+
+56thnumber is not valid because it starts with a number.
+
+length is valid.
+
+!Tayo! is not valid because it starts with a character.
+
+NUMBER is valid.
+
+Android_phone1 is valid.
+
+this variable is not valid because it contains a space.
+
+
+
+ 2. Types
+a=False is boolean.
+
+b=3.7 is a float.
+
+c="Alex" is a string.
+
+d=7 is an integer.
+
+e="True" is a string.
+
+f=17 is an integer.
+
+g="17" does not have a data type.
+
+h=True is boolean.
+
+i="3.14159" is a string.
+
+j is also a string.
+
+
+
+Exercise 2
+
+1
+
+
+1. b and c is False
+
+2. b or c is True
+
+3. not a and not b is False
+
+4. (a and b) or not c is True
+
+5. not b and not (a or c )is False
+
+6. not((not b or not a) and c )is True
+>>> 5/2
+2
+>>> 5/2.0
+2.5
+>>> 5.0/2
+2.5
+>>> 7*(1/2)
+0
+>>> 7*(1/2.0)
+3.5
+>>> 5**2
+25
+>>> 5.0**2
+25.0
+>>> 5**2.0
+25.0
+>>> 1/3
+0
+>>> 1/3.0
+0.3333333333333333
+>>> ================================ RESTART ================================
+>>> 
+Exercise 1
+
+Variable Names
+x is valid.
+
+56thnumber is not valid because it starts with a number.
+
+length is valid.
+
+!Tayo! is not valid because it starts with a character.
+
+NUMBER is valid.
+
+Android_phone1 is valid.
+
+this variable is not valid because it contains a space.
+
+
+
+ 2. Types
+a=False is boolean.
+
+b=3.7 is a float.
+
+c="Alex" is a string.
+
+d=7 is an integer.
+
+e="True" is a string.
+
+f=17 is an integer.
+
+g="17" does not have a data type.
+
+h=True is boolean.
+
+i="3.14159" is a string.
+
+j is also a string.
+
+
+Exercise 2
+
+1
+
+
+1. b and c is False
+
+2. b or c is True
+
+3. not a and not b is False
+
+4. (a and b) or not c is True
+
+5. not b and not (a or c )is False
+
+6. not((not b or not a) and c )is True
+Exercise 3
+
+1. 5/2 is 2
+
+2. 5/2.0 is 2.5
+
+3. 5.0/2 is 2.5
+
+4. 7*(1/2)is 0
+
+5. 7*(1/2.0)is 3.5
+
+6. 5**2 is 25
+
+7. 5.0**2 is 25.0
+
+8. 5**2.0 is 25.0
+
+9. 1/3 is 0
+
+10. 1/3.0 is 0.333333333333
+>>> ================================ RESTART ================================
+>>> 
+Exercise 1
+
+Variable Names
+x is valid.
+
+56thnumber is not valid because it starts with a number.
+
+length is valid.
+
+!Tayo! is not valid because it starts with a character.
+
+NUMBER is valid.
+
+Android_phone1 is valid.
+
+this variable is not valid because it contains a space.
+
+
+
+ 2. Types
+a=False is boolean.
+
+b=3.7 is a float.
+
+c="Alex" is a string.
+
+d=7 is an integer.
+
+e="True" is a string.
+
+f=17 is an integer.
+
+g="17" does not have a data type.
+
+h=True is boolean.
+
+i="3.14159" is a string.
+
+j is also a string.
+
+
+Exercise 2
+
+1
+
+
+1. b and c is False
+
+2. b or c is True
+
+3. not a and not b is False
+
+4. (a and b) or not c is True
+
+5. not b and not (a or c )is False
+
+6. not((not b or not a) and c )is True
+
+
+Exercise 3
+
+1. 5/2 is 2
+
+2. 5/2.0 is 2.5
+
+3. 5.0/2 is 2.5
+
+4. 7*(1/2)is 0
+
+5. 7*(1/2.0)is 3.5
+
+6. 5**2 is 25
+
+7. 5.0**2 is 25.0
+
+8. 5**2.0 is 25.0
+
+9. 1/3 is 0
+
+10. 1/3.0 is 0.333333333333
+>>> ================================ RESTART ================================
+>>> 
+Exercise 1
+
+Variable Names
+x is valid.
+
+56thnumber is not valid because it starts with a number.
+
+length is valid.
+
+!Tayo! is not valid because it starts with a character.
+
+NUMBER is valid.
+
+Android_phone1 is valid.
+
+this variable is not valid because it contains a space.
+
+
+ 2. Types
+
+a=False is boolean.
+
+b=3.7 is a float.
+
+c="Alex" is a string.
+
+d=7 is an integer.
+
+e="True" is a string.
+
+f=17 is an integer.
+
+g="17" does not have a data type.
+
+h=True is boolean.
+
+i="3.14159" is a string.
+
+j is also a string.
+
+
+Exercise 2
+
+1
+
+1. b and c is False
+
+2. b or c is True
+
+3. not a and not b is False
+
+4. (a and b) or not c is True
+
+5. not b and not (a or c )is False
+
+6. not((not b or not a) and c )is True
+
+
+Exercise 3
+
+1. 5/2 is 2
+
+2. 5/2.0 is 2.5
+
+3. 5.0/2 is 2.5
+
+4. 7*(1/2)is 0
+
+5. 7*(1/2.0)is 3.5
+
+6. 5**2 is 25
+
+7. 5.0**2 is 25.0
+
+8. 5**2.0 is 25.0
+
+9. 1/3 is 0
+
+10. 1/3.0 is 0.333333333333
+>>> 
