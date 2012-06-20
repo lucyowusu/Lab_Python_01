@@ -1,0 +1,22 @@
+Python 2.7.2+ (default, Oct  4 2011, 20:03:08) 
+[GCC 4.6.1] on linux2
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+Exercise 4
+
+Please enter your FirstName: Lucy
+Please enter your LasttName: Owusu
+
+
+Please enter your Date of Birth: 
+
+	Month? July
+
+	Day? 4
+
+	Year? 2011
+
+
+Lucy Owusu was born on July 4, 2011
+>>> 
